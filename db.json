@@ -1,11 +1,11 @@
 {
-  "user": {
+  "posts": [{
     "userId": 38,
     "name": "Janet Smith",
     "email": "g_nissa@hotmail.com",
     "userLevel": "Admin",
     "currentCustomerName": "LGI HOMES, INC",
     "currentCustomerNumber": "598878",
-  }
+  }]
    
 }
